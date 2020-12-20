@@ -12,11 +12,11 @@ Just clone the repo and run it on your system.
 You can connect with me for any doubts: 
 - [Instagram](https://www.instagram.com/abhishekdoshi26/)
 
-- [Twitter] (https://twitter.com/AbhishekDoshi26)
+- [Twitter](https://twitter.com/AbhishekDoshi26)
 
-- [LinkedIn] (https://www.linkedin.com/in/AbhishekDoshi26)
+- [LinkedIn](https://www.linkedin.com/in/AbhishekDoshi26)
 
-- [GitHub] (https://github.com/AbhishekDoshi26)
+- [GitHub](https://github.com/AbhishekDoshi26)
 
 You can join our family of <b>[Flutter Valsad](https://fluttervalsad.com/)!</b>
 
